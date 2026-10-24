@@ -11,6 +11,7 @@ conversions.
 asynchronous `EventQueue` dispatching.
 - **Input Validation**: Robust `try-catch` exception handling and boundary checks to prevent runtime
 errors from invalid or negative inputs.
+- **Game**: Given some freedom for the project so we created a bare bones flappy bird game.
 ## Technologies Used
 - **Language**: Java
 - **Framework**: Java Swing (GUI)
