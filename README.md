@@ -17,5 +17,5 @@ errors from invalid or negative inputs.
 - **Concepts**: Object-Oriented Programming (OOP), Event Handling, Input Parsing, Multi-Window
 Architecture
 ## Authors
-Joshua Shuffield, Garret Evans
+Joshua Shuffield, Garret Evans | 
 Tarleton State University - Computer Science & Engineering
